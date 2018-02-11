@@ -32,5 +32,12 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/Bangladesh_Java"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Home_Work"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Jacksonheights"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Maven_Project"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Maven_Project1"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Maven_Project2"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Student tech practice"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
