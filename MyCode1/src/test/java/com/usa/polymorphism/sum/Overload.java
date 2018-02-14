@@ -3,6 +3,7 @@ package com.usa.polymorphism.sum;
 public class Overload {
 	public static void  Salary() {
 		int salary=2500;
+		
 		System.out.println("My salary is "+salary+".");
 		
 	}
@@ -25,10 +26,10 @@ public class Overload {
 	public static void main(String[] args) {
 		Overload b =new Overload();
 		b.Salary();
-		b.Salary(5000);
-		b.Salary(11.5);
-		b.Salary(12.55);
-		b.Salary("Sumon Ahmed");
+		b.Salary(1000);
+		b.Salary(10.5);
+		b.Salary("Sumon");
+		b.Salary(10.55);
 	}
 }
 
