@@ -9,7 +9,7 @@ public class Calculation1 {
 	}
 	public static boolean myBoolean() {
 		
-		boolean myBool=5<6;
+		boolean myBool=10==10;
 		System.out.println(myBool);
 		return false;
 		
